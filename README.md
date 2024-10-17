@@ -1,7 +1,3 @@
-Here’s the **blended project** written in **Markdown** language:
-
----
-
 # **Blended Project: Temperature and Humidity Monitoring with Temperature-Controlled Fan System for Agriculture Application**
 
 ## **Introduction**
